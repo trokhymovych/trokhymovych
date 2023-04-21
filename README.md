@@ -1,4 +1,4 @@
-### Hi there 👋👋👋
+### Hi there 👋
 
 - 🔭 I'm currently a PhD student at Pompeu Fabra University
 - 🛢 My industry experience includes NLP, Information Retrieval, Ranking, and Recommender systems domains.
