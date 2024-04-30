@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I'm currently a PhD student at Pompeu Fabra University
+- 🔭 I'm currently a PhD student at Pompeu Fabra University, Barcelona
 - 🛢 My industry experience includes NLP, Information Retrieval, Ranking, and Recommender systems domains.
-- I speak Ukrainian🇺🇦, English🇬🇧🇺🇸, Russian🏳️ and poco Español🇪🇸
+- I speak Ukrainian🇺🇦, English🇬🇧🇺🇸, Russian🏳️ and poco de Español🇪🇸
 
 
 [![image](https://img.shields.io/badge/Personal%20page-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.trokhymovych.com/)
